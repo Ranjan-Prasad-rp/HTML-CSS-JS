@@ -1,0 +1,70 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-size:
+
+}
+
+.img2 {
+    background-image: url("/ironman\'.jpg");
+    min-height: 400px;
+
+}
+
+.img1 {
+    background-image: url("/iron2.jpg");
+    min-height: 100%;
+
+}
+
+.img3 {
+    background-image: url("/how.jpg");
+    min-height: 100%;
+
+}
+
+.img4 {
+    background-image: url("/multiple\ iron.jpg");
+    min-height: 100%;
+
+}
+
+.img1,
+.img2,
+.img3,
+.img4 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-attachment: fixed;
+
+}
+
+.txt {
+    position: absolute;
+    left: 35.3%;
+    top: 50%;
+    font-size: xx-large;
+
+    color: rgb(235, 232, 232);
+    font-weight: 900;
+}
+
+.bio {
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(230, 228, 228);
+}
+
+.became {
+    color: rgb(249, 247, 247);
+    filter: drop-shadow(10px 10px 25px rgb(16, 16, 16));
+
+}
+
+.stark {
+    color: black;
+}
